@@ -1,2 +1,2 @@
-# daytwo
-Image processing 
+# image processing 
+project for internship 
